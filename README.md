@@ -42,4 +42,18 @@ Seleciona CPF do dependente, nome, data de nascimento, parentesco, colaborador, 
 4. Relatório plano de saúde
 Seleciona colaborador e valor a pagar do plano de saúde mensal   
 
+### **Principais procedures e funções**
+
+_Até o momento, foram criadas as seguintes procedures e funções:_  
+
+1. Procedure insere_projeto  
+Inserir novo projeto, incluindo nome do projeto, responável e data de início.  
+
+2. Função calcula_idade  
+Calcula idade a partir da data de nascimento informada.  
+
+3. Função finaliza_projeto  
+Insere data atual como data de finalização de um projeto.   
+
+
 
