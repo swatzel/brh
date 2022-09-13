@@ -55,5 +55,9 @@ Calcula idade a partir da data de nascimento informada.
 3. Função finaliza_projeto  
 Insere data atual como data de finalização de um projeto.   
 
+### **Créditos**  
+
+* Stephany Watzel   
+
 
 
